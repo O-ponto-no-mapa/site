@@ -1,0 +1,65 @@
+[
+    {
+        "nome": "Geossítio Batateiras",
+        "lat": -7.233856,
+        "long": -39.432204,
+        "cidade": "Crato - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1686"
+    },
+    {
+        "nome": "Geossítio Cachoeira de Missão Velha",
+        "lat": -7.221929,
+        "long": -39.143993,
+        "cidade": "Missão Velha - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1694"
+    },
+    {
+        "nome": "Geossítio Colina do Horto",
+        "lat": -7.179458,
+        "long": -39.329289,
+        "cidade": "Juazeiro do Norte - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1702"
+    },
+    {
+        "nome": "Geossítio Floresta Petrificada",
+        "lat": -7.258823,
+        "long": -39.090572,
+        "cidade": "Missão Velha - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1714"
+    },
+    {
+        "nome": "Geossítio Parque dos Pterossauros",
+        "lat": -7.187626,
+        "long": -39.716500,
+        "cidade": "Santana do Cariri - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1721"
+    },
+    {
+        "nome": "Geossítio Pedra Cariri",
+        "lat": -7.121165,
+        "long": -39.695169,
+        "cidade": "Nova Olinda - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1727"
+    },
+    {
+        "nome": "Geossítio Pontal da Santa Cruz",
+        "lat": -7.210151,
+        "long": -39.733772,
+        "cidade": "Santana do Cariri - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1734"
+    },
+    {
+        "nome": "Geossítio Ponte de Pedra",
+        "lat": -7.151553,
+        "long": -39.629191,
+        "cidade": "Nova Olinda - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1740"
+    },
+    {
+        "nome": "Geossítio Riacho do Meio",
+        "lat": -7.364073,
+        "long": -39.330253,
+        "cidade": "Barbalha - CE",
+        "site": "http://geoparkararipe.urca.br/?page_id=1747"
+    }
+]

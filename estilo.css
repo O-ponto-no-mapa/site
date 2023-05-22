@@ -1,0 +1,109 @@
+/* Configurações do <body> que abrangem toda a página. */
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    background-color: #8c7d77;
+    flex-wrap: wrap;
+    height: 50px;
+}
+
+
+.logo {
+    margin: 10px;
+    height: 35px;
+}
+
+/* Estilo para o elemento 'ul' da classe 'menu'. */
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Estilo para o elemento 'li' de 'ul' da classe 'menu'. */
+.menu ul li {
+    float: left;
+}
+
+/* Estilo para o elemento 'a' de 'ul' da classe 'menu'. */
+.menu ul li a {
+    display: block;
+    color: #ced9d7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Id de estilo para formatar o ítem do menu ativo */
+.menu ul li #ativo {
+    /*background-color: #698c85;*/
+    text-decoration: underline;
+    color: #ffffff;
+
+}
+
+
+/* Estilo para o link <a>. */
+a {
+    color: #698c85;
+    text-decoration: none;
+}
+
+/* Estilo para o link <a> quando o cursor estiver sobre o elemento . */
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* Classe de estilo da caixa de conteúdo, que contém o mapa em 'index.html' e texto em 'sobre.html'. */
+.caixaConteudo {
+    min-height: calc(100vh - 50px);
+    display: flex;
+    background-color: #ffffff;
+    color: #8c7d77;
+    justify-content: center;
+}
+
+
+/* Identidade de estilo para a <div> que contém o mapa. */
+#mapaLeaflet {
+    width: 100%;
+}
+
+/* Identidade de estilo para a <div> que contém texto. */
+.conteudoTexto {
+    width: 800px;
+    padding: 40px;
+    background-color: #ced9d7;
+}
+
+
+/* Configura a tag de imagem <img> que está na classe .imagem. */
+.imagem img {
+    width: 100%;
+    padding-bottom: 0px;
+    filter: grayscale(80%);
+}
+
+/* Configura a tag de parágrafo <p> que está na classe .imagem. */
+.imagem p {
+    padding-top: 0px;
+    font-size: smaller;
+}
+
+/*
+#8c7d77
+#ffffff
+#d9d1ce
+#698c85
+#ced9d7
+
+*/
